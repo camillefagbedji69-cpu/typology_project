@@ -10,7 +10,7 @@ Managing complex landscapes requires a multidimensional understanding of how bio
 * **Functional Typology**: Clustering sub-basins into management-oriented groups to support territorial planning.
 
 ## 🛠️ Tech Stack & Methodology
-* **Language**: R 📊 (`FactoMineR`, `factoextra`)
+* **Language**: R 📊 (`FactoMineR`, `factoextra` `landscapemetrics`, `exactextract`, `terra`)
 
 * **Variables**: Total Ecosystem Services (TES), Water Yield, Carbon Stock, Edge Density (ED), SHDI, Forest Cover, and Anthropogenic Pressure.
 
